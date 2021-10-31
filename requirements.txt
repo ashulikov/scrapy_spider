@@ -1,0 +1,4 @@
+itemadapter==0.4.0
+itemloaders==1.0.4
+lxml==4.6.3
+Scrapy==2.5.1
